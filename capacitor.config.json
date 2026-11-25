@@ -1,0 +1,13 @@
+{
+  "appId": "com.sona.speakandsave",
+  "appName": "Sona Speak and Save",
+  "webDir": ".output/public",
+  "server": {
+    "url": "https://sona-speak-and-save.vercel.app",
+    "cleartext": true
+  },
+  "android": {
+    "backgroundColor": "#091523",
+    "allowMixedContent": true
+  }
+}
